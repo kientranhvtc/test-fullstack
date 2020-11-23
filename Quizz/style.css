@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#question {
+  border: 1px solid black;
+  height: 30px;
+  font-size: 18px;
+  font-weight: 700;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  margin: 0 250px;
+  color: black;
+}
+.choose {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  margin: 0 250px;
+}
+.aside-left {
+  margin-right: 5px;
+}
+.aside-right {
+  font-size: 18px;
+}
+
